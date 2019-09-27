@@ -1,1 +1,1 @@
-utility function for ver 2.
+utility function for ver 3.
