@@ -1,1 +1,1 @@
-utility function for ver 3.
+utility function for ver 6 video.
